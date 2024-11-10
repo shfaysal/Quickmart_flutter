@@ -150,7 +150,7 @@ class _SignUpState extends State<SignUp> {
                       color: Colors.black
                     ),
                     decoration: const InputDecoration(
-                      labelText: "Enter Your Name",
+                      labelText: "don't Your Name",
                       labelStyle: TextStyle(
                         color: Colors.black,
                         fontSize: 20
