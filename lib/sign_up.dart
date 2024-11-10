@@ -138,7 +138,7 @@ class _SignUpState extends State<SignUp> {
                 //     )
                 //   ]
                 // ),
-                color: Colors.black,
+                color: Colors.white,
                 child: Column(
                 mainAxisSize: MainAxisSize.max,
                 children: [
